@@ -1,0 +1,82 @@
+[
+    {
+        "hex": "#FFFFFF",
+        "name": "White"
+    },
+    {
+        "hex": "#000000",
+        "name": "Black"
+    },
+    {
+        "hex": "#CDC5C2",
+        "name": "Silver"
+    },
+    {
+        "hex": "#E7C697",
+        "name": "Gold"
+    },
+    {
+        "hex": "#FCE883",
+        "name": "Yellow"
+    },
+    {
+        "hex": "#62654A",
+        "name": "Khaki"
+    },
+    {
+        "hex": "#1CAC78",
+        "name": "Green"
+    },
+    {
+        "hex": "#216675",
+        "name": "Petrol"
+    },
+    {
+        "hex": "#77DDE7",
+        "name": "Turquoise"
+    },
+    {
+        "hex": "#1F75FE",
+        "name": "Blue"
+    },
+    {
+        "hex": "#F3D2C3",
+        "name": "Nude"
+    },
+    {
+        "hex": "#FF7538",
+        "name": "Orange"
+    },
+    {
+        "hex": "#926EAE",
+        "name": "Violet"
+    },
+    {
+        "hex": "#DC34BF",
+        "name": "Pink"
+    },
+    {
+        "hex": "#C364C5",
+        "name": "Fuchsia"
+    },
+    {
+        "hex": "#EE204D",
+        "name": "Red"
+    },
+    {
+        "hex": "#F5ECDD",
+        "name": "Cream"
+    },
+    {
+        "hex": "#B4674D",
+        "name": "Brown"
+    },
+    {
+        "hex": "#959595",
+        "name": "Grey"
+    },
+    {
+        "hex": null,
+        "name": "Others"
+    }
+]

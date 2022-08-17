@@ -1,0 +1,53 @@
+// fonts
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700%7CRaleway:300,400,500,600,700');
+
+////////////////////////////////////////////////////////////////
+///////////// DO NOT MODIFY BELOW INCLUDE ORDER ////////////////
+////////////////////////////////////////////////////////////////
+
+// 1: Include global config
+@import "~jollof-admin/theme/demo1/src/assets/sass/config";
+
+// 2: Include layout config
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/config";
+
+// 3: Bootstrap framework includes
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/integration/frameworks/bootstrap/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/integration/frameworks/bootstrap/bootstrap.scss";
+
+// 4: Components include
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/include";
+
+////////////////////////////////////////////////////////////////
+///////////// DO NOT MODIFY ABOVE INCLUDE ORDER ////////////////
+////////////////////////////////////////////////////////////////
+
+// 5: Layout config
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/header/config";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/brand/config";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/aside/config";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/aside-secondary/config";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/footer/config";
+
+// 6: Layout includes
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/base/base";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/header/header";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/header/header-mobile";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/header/menu";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/header/topbar";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/brand/brand";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/aside/aside";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/aside-secondary/aside-secondary";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/content/content";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/footer/footer";
+
+// css skins style
+//@import "~bootstrap-vue/dist/bootstrap-vue.css";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/aside/skins/light";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/brand/skins/light";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/header/skins/base/light";
+@import "~jollof-admin/theme/demo1/src/assets/sass/global/layout/header/skins/menu/light";
+
+@import '~vuejs-noty/dist/vuejs-noty.css';
+@import "~vue-form-wizard/dist/vue-form-wizard.min.css";

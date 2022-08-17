@@ -1,0 +1,668 @@
+{
+    "data": [
+        {
+            "nip_bank_code": "090270",
+            "bank_name": "AB MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "070010",
+            "bank_name": "ABBEY MORTGAGE BANK"
+        },
+        {
+            "nip_bank_code": "090260",
+            "bank_name": "ABOVE ONLY MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090197",
+            "bank_name": "ABU MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000014",
+            "bank_name": "ACCESS BANK"
+        },
+        {
+            "nip_bank_code": "100013",
+            "bank_name": "ACCESS MOBILE"
+        },
+        {
+            "nip_bank_code": "000005",
+            "bank_name": "ACCESS(DIAMOND) BANK"
+        },
+        {
+            "nip_bank_code": "090134",
+            "bank_name": "ACCION MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090160",
+            "bank_name": "ADDOSSER MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090268",
+            "bank_name": "ADEYEMI COLLEGE STAFF MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100028",
+            "bank_name": "AG MORTGAGE BANK"
+        },
+        {
+            "nip_bank_code": "090133",
+            "bank_name": "AL-BARAKAH MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090259",
+            "bank_name": "ALEKUN MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090131",
+            "bank_name": "ALLWORKERS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090169",
+            "bank_name": "ALPHA KAPITAL MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090116",
+            "bank_name": "AMML MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090143",
+            "bank_name": "APEKS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090282",
+            "bank_name": "ARISE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090001",
+            "bank_name": "ASO SAVINGS"
+        },
+        {
+            "nip_bank_code": "090172",
+            "bank_name": "ASTRAPOLARIS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090264",
+            "bank_name": "AUCHI MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090127",
+            "bank_name": "BC KASH MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090117",
+            "bank_name": "BOCTRUST MICROFINANCE BANK LIMITED"
+        },
+        {
+            "nip_bank_code": "090176",
+            "bank_name": "BOSAK MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090148",
+            "bank_name": "BOWEN MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "070015",
+            "bank_name": "BRENT MORTGAGE BANK"
+        },
+        {
+            "nip_bank_code": "100005",
+            "bank_name": "CELLULANT"
+        },
+        {
+            "nip_bank_code": "090154",
+            "bank_name": "CEMCS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100015",
+            "bank_name": "CHAMS MOBILE"
+        },
+        {
+            "nip_bank_code": "090141",
+            "bank_name": "CHIKUM MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090144",
+            "bank_name": "CIT MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000009",
+            "bank_name": "CITI BANK"
+        },
+        {
+            "nip_bank_code": "090130",
+            "bank_name": "CONSUMER MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100032",
+            "bank_name": "CONTEC GLOBAL INFOTECH LIMITED(NOWNOW)"
+        },
+        {
+            "nip_bank_code": "060001",
+            "bank_name": "CORONATION BANK"
+        },
+        {
+            "nip_bank_code": "070006",
+            "bank_name": "COVENANT MFB"
+        },
+        {
+            "nip_bank_code": "090159",
+            "bank_name": "CREDIT AFRIQUE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090167",
+            "bank_name": "DAYLIGHT MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100021",
+            "bank_name": "EARTHOLEUM"
+        },
+        {
+            "nip_bank_code": "090156",
+            "bank_name": "E-BARCS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000010",
+            "bank_name": "ECOBANK"
+        },
+        {
+            "nip_bank_code": "100008",
+            "bank_name": "ECOBANK XPRESS ACCOUNT"
+        },
+        {
+            "nip_bank_code": "100030",
+            "bank_name": "ECOMOBILE"
+        },
+        {
+            "nip_bank_code": "090097",
+            "bank_name": "EKONDO MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090273",
+            "bank_name": "EMERALDS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090114",
+            "bank_name": "EMPIRE TRUST MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000019",
+            "bank_name": "ENTERPRISE BANK"
+        },
+        {
+            "nip_bank_code": "100006",
+            "bank_name": "eTRANZACT"
+        },
+        {
+            "nip_bank_code": "090179",
+            "bank_name": "FAST MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100014",
+            "bank_name": "FBN MOBILE"
+        },
+        {
+            "nip_bank_code": "090107",
+            "bank_name": "FBN MORTGAGES LIMITED"
+        },
+        {
+            "nip_bank_code": "060002",
+            "bank_name": "FBNQUEST MERCHANT BANK"
+        },
+        {
+            "nip_bank_code": "100031",
+            "bank_name": "FCMB MOBILE"
+        },
+        {
+            "nip_bank_code": "100001",
+            "bank_name": "FET"
+        },
+        {
+            "nip_bank_code": "090153",
+            "bank_name": "FFS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000007",
+            "bank_name": "FIDELITY BANK"
+        },
+        {
+            "nip_bank_code": "100019",
+            "bank_name": "FIDELITY MOBILE"
+        },
+        {
+            "nip_bank_code": "090126",
+            "bank_name": "FIDFUND MICROFINANCE Bank"
+        },
+        {
+            "nip_bank_code": "090111",
+            "bank_name": "FINATRUST MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000016",
+            "bank_name": "FIRST BANK OF NIGERIA"
+        },
+        {
+            "nip_bank_code": "000003",
+            "bank_name": "FIRST CITY MONUMENT BANK"
+        },
+        {
+            "nip_bank_code": "070014",
+            "bank_name": "FIRST GENERATION MORTGAGE BANK"
+        },
+        {
+            "nip_bank_code": "070002",
+            "bank_name": "FORTIS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100016",
+            "bank_name": "FORTIS MOBILE"
+        },
+        {
+            "nip_bank_code": "400001",
+            "bank_name": "FSDH"
+        },
+        {
+            "nip_bank_code": "090145",
+            "bank_name": "FULLRANGE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090158",
+            "bank_name": "FUTO MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "070009",
+            "bank_name": "GATEWAY MORTGAGE BANK"
+        },
+        {
+            "nip_bank_code": "090122",
+            "bank_name": "GOWANS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090178",
+            "bank_name": "GREENBANK MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090195",
+            "bank_name": "GROOMING MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100009",
+            "bank_name": "GT MOBILE"
+        },
+        {
+            "nip_bank_code": "000013",
+            "bank_name": "GTBANK PLC"
+        },
+        {
+            "nip_bank_code": "090147",
+            "bank_name": "HACKMAN MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "070017",
+            "bank_name": "HAGGAI MORTGAGE BANK LIMITED"
+        },
+        {
+            "nip_bank_code": "090121",
+            "bank_name": "HASAL MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100017",
+            "bank_name": "HEDONMARK"
+        },
+        {
+            "nip_bank_code": "000020",
+            "bank_name": "HERITAGE BANK"
+        },
+        {
+            "nip_bank_code": "090175",
+            "bank_name": "HIGHSTREET MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090118",
+            "bank_name": "IBILE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090258",
+            "bank_name": "IMO STATE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100024",
+            "bank_name": "IMPERIAL HOMES MORTGAGE BANK"
+        },
+        {
+            "nip_bank_code": "090157",
+            "bank_name": "INFINITY MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "070016",
+            "bank_name": "INFINITY TRUST MORTGAGE BANK"
+        },
+        {
+            "nip_bank_code": "100029",
+            "bank_name": "INNOVECTIVES KESH"
+        },
+        {
+            "nip_bank_code": "100027",
+            "bank_name": "INTELLFIN"
+        },
+        {
+            "nip_bank_code": "090149",
+            "bank_name": "IRL MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000006",
+            "bank_name": "JAIZ BANK"
+        },
+        {
+            "nip_bank_code": "090003",
+            "bank_name": "JUBILEE LIFE"
+        },
+        {
+            "nip_bank_code": "000002",
+            "bank_name": "KEYSTONE BANK"
+        },
+        {
+            "nip_bank_code": "100025",
+            "bank_name": "KONGAPAY"
+        },
+        {
+            "nip_bank_code": "100011",
+            "bank_name": "KUDA MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "070012",
+            "bank_name": "LAGOS BUILDING AND INVESTMENT COMPANY"
+        },
+        {
+            "nip_bank_code": "090177",
+            "bank_name": "LAPO MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090171",
+            "bank_name": "MAINSTREET MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090280",
+            "bank_name": "MEGAPRAISE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090136",
+            "bank_name": "MICROCRED MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090113",
+            "bank_name": "MICROVIS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100020",
+            "bank_name": "MONEY BOX"
+        },
+        {
+            "nip_bank_code": "090129",
+            "bank_name": "MONEY TRUST MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090151",
+            "bank_name": "MUTUAL TRUST MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090128",
+            "bank_name": "NDIORAH MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090205",
+            "bank_name": "NEW DAWN MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090108",
+            "bank_name": "NEW PRUDENTIAL BANK"
+        },
+        {
+            "nip_bank_code": "090263",
+            "bank_name": "NIGERIAN NAVY MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "999999",
+            "bank_name": "NIP VIRTUAL BANK"
+        },
+        {
+            "nip_bank_code": "090194",
+            "bank_name": "NIRSAL NATIONAL MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "060003",
+            "bank_name": "NOVA MERCHANT BANK LTD"
+        },
+        {
+            "nip_bank_code": "070001",
+            "bank_name": "NPF MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090119",
+            "bank_name": "OHAFIA MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090161",
+            "bank_name": "OKPOGA MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090272",
+            "bank_name": "OLABISI ONABANJO UNIVERSITY MICROFINANCE"
+        },
+        {
+            "nip_bank_code": "070007",
+            "bank_name": "OMOLUABI"
+        },
+        {
+            "nip_bank_code": "100026",
+            "bank_name": "ONE FINANCE"
+        },
+        {
+            "nip_bank_code": "100002",
+            "bank_name": "PAGA"
+        },
+        {
+            "nip_bank_code": "070008",
+            "bank_name": "PAGE MFBank"
+        },
+        {
+            "nip_bank_code": "090004",
+            "bank_name": "PARALLEX"
+        },
+        {
+            "nip_bank_code": "100003",
+            "bank_name": "PARKWAY-READYCASH"
+        },
+        {
+            "nip_bank_code": "110001",
+            "bank_name": "PAYATTITUDE ONLINE"
+        },
+        {
+            "nip_bank_code": "100004",
+            "bank_name": "PAYCOM"
+        },
+        {
+            "nip_bank_code": "090137",
+            "bank_name": "PECANTRUST MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090196",
+            "bank_name": "PENNYWISE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090135",
+            "bank_name": "PERSONAL TRUST MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "070013",
+            "bank_name": "PLATINUM MORTGAGE BANK"
+        },
+        {
+            "nip_bank_code": "000008",
+            "bank_name": "POLARIS BANK"
+        },
+        {
+            "nip_bank_code": "090274",
+            "bank_name": "PRESTIGE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000023",
+            "bank_name": "PROVIDUS BANK"
+        },
+        {
+            "nip_bank_code": "090261",
+            "bank_name": "QUICKFUND MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000024",
+            "bank_name": "RAND MERCHANT BANK"
+        },
+        {
+            "nip_bank_code": "070011",
+            "bank_name": "REFUGE MORTGAGE BANK"
+        },
+        {
+            "nip_bank_code": "090125",
+            "bank_name": "REGENT MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090198",
+            "bank_name": "RENMONEY MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090132",
+            "bank_name": "RICHWAY MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090138",
+            "bank_name": "ROYAL EXCHANGE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090006",
+            "bank_name": "SAFETRUST"
+        },
+        {
+            "nip_bank_code": "090140",
+            "bank_name": "SAGAMU MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090112",
+            "bank_name": "SEED CAPITAL MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100007",
+            "bank_name": "STANBIC IBTC @Ease WALLET"
+        },
+        {
+            "nip_bank_code": "000012",
+            "bank_name": "STANBIC IBTC BANK"
+        },
+        {
+            "nip_bank_code": "000021",
+            "bank_name": "STANDARD CHARTERED BANK"
+        },
+        {
+            "nip_bank_code": "090262",
+            "bank_name": "STELLAS MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000001",
+            "bank_name": "STERLING BANK"
+        },
+        {
+            "nip_bank_code": "100022",
+            "bank_name": "STERLING MOBILE"
+        },
+        {
+            "nip_bank_code": "000022",
+            "bank_name": "SUNTRUST BANK"
+        },
+        {
+            "nip_bank_code": "100023",
+            "bank_name": "TAGPAY"
+        },
+        {
+            "nip_bank_code": "000026",
+            "bank_name": "TAJ BANK"
+        },
+        {
+            "nip_bank_code": "090115",
+            "bank_name": "TCF MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100010",
+            "bank_name": "TEASY MOBILE"
+        },
+        {
+            "nip_bank_code": "090146",
+            "bank_name": "TRIDENT MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090005",
+            "bank_name": "TRUSTBOND"
+        },
+        {
+            "nip_bank_code": "090276",
+            "bank_name": "TRUSTFUND MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000018",
+            "bank_name": "UNION BANK"
+        },
+        {
+            "nip_bank_code": "000004",
+            "bank_name": "UNITED BANK FOR AFRICA"
+        },
+        {
+            "nip_bank_code": "000011",
+            "bank_name": "UNITY BANK"
+        },
+        {
+            "nip_bank_code": "090251",
+            "bank_name": "UNIVERSITY OF NIGERIA, NSUKKA MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090123",
+            "bank_name": "VERITE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090110",
+            "bank_name": "VFD MFB"
+        },
+        {
+            "nip_bank_code": "090150",
+            "bank_name": "VIRTUE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090139",
+            "bank_name": "VISA MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "100012",
+            "bank_name": "VT NETWORKS"
+        },
+        {
+            "nip_bank_code": "000017",
+            "bank_name": "WEMA BANK"
+        },
+        {
+            "nip_bank_code": "090120",
+            "bank_name": "WETLAND  MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090124",
+            "bank_name": "XSLNCE MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "090142",
+            "bank_name": "YES MICROFINANCE BANK"
+        },
+        {
+            "nip_bank_code": "000015",
+            "bank_name": "ZENITH BANK"
+        },
+        {
+            "nip_bank_code": "100018",
+            "bank_name": "ZENITH MOBILE"
+        }
+    ]
+}
